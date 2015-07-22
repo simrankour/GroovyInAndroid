@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Groovy Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_username">Username :</string>
+    <string name="label_email">Email :</string>
+    <string name="label_add_todo">Add</string>
+    <string name="label_empty">ToDo list is empty,\ncreate a new ToDo using the options menu</string>
+    <string name="title_create_new_todo">Create new ToDo</string>
+</resources>
