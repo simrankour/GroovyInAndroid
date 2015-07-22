@@ -21,9 +21,9 @@ public class MainActivity extends ListActivity {
         super.onResume()
         /*  With Java this would look like this:
             ArrayAdapter<ToDoItem> adapter = (ArrayAdapter<ToDoItem>) getListAdapter();
-            adapter.clear()
-            adapter.addAll((ToDoApplication) getApplication()).getToDos());
-            adapter.notifyDataSetChanged()
+            adapter.clear();
+            adapter.addAll((MyApplication) getApplication()).getToDos());
+            adapter.notifyDataSetChanged();
         */
 
         listAdapter.clear()
